@@ -29,7 +29,7 @@
   <a href="https://wa.me/qr/6QXNWLIMIQLMD1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="youssefmushhoour@gmail.com" target="_blank">
+  <a href="mailto : youssefmushhoour@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
